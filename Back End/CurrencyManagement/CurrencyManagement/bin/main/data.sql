@@ -1,0 +1,2 @@
+insert into user (id, user_name ,hashed_password ,email) values (1, 'shaaban' ,'$2a$04$I9Q2sDc4QGGg5WNTLmsz0.fvGv3OjoZyj81PrSFyGOqMphqfS2qKu' ,'ee@gmail.com');
+insert into user (id, user_name ,hashed_password ,email) values (2, 'shaaba3n' ,'roo3t' ,'ee@dgmail.com');
